@@ -1,0 +1,2 @@
+print("Word embeddings demo require some libraries that are time consuming during installation\n")
+print("Please run the demo here: https://colab.research.google.com/drive/1aijIWWNWO8gETuMnukbDPG32JFrohLXi?usp=sharing")

@@ -1,0 +1,9 @@
+nltk
+spacy
+contractions
+numpy
+SpeechRecognition
+PyAudio
+gtts 
+pygame
+openai
